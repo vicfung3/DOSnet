@@ -2,6 +2,8 @@
 
 Updated 11/19/2020 - By Victor Fung
 
+NOTE (5/2/2021): The data is now stored in a separate repository due to size. It can be accessed here: https://figshare.com/articles/dataset/DOSnet_data/14511978
+
 This repo provides the code to run DOSnet, as detailed in the manuscript: Machine Learned Features from Density of States for Accurate Adsorption Energy Prediction. [1] DOSnet is a machine learning model which takes density of states as inputs to predict a targeted property such as adsorption energies. 
 
 **Introduction:**
